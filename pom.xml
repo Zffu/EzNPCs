@@ -7,4 +7,8 @@
   <version>1.0.0</version>
   <name>EzNPCs</name>
 
+  <modules>
+    <module>plugin</module>
+  </modules>
+
 </project>
