@@ -1,3 +1,0 @@
-name: plugin
-version: '${project.version}'
-main: net.zffu.plugin.Plugin

@@ -1,0 +1,5 @@
+name: "EzNPCs"
+main: net.zffu.eznpcs.EzNPCsPlugin
+authors: [Zffu, Japlic]
+description: EzNPCs is a minecraft plugin aiming to be a optimized and customizable npc plugin.
+api-version: "1.13"
