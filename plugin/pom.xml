@@ -69,6 +69,11 @@
             <version>1.20.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>net.zffu</groupId>
+            <artifactId>eznpcs-api</artifactId>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
 
